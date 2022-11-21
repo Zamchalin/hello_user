@@ -1,0 +1,15 @@
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\bin\Debug\net6.0\example002_Hellouser.exe
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\bin\Debug\net6.0\example002_Hellouser.deps.json
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\bin\Debug\net6.0\example002_Hellouser.runtimeconfig.json
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\bin\Debug\net6.0\example002_Hellouser.dll
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\bin\Debug\net6.0\example002_Hellouser.pdb
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.csproj.AssemblyReference.cache
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.AssemblyInfoInputs.cache
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.AssemblyInfo.cs
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.csproj.CoreCompileInputs.cache
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.dll
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\refint\example002_Hellouser.dll
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.pdb
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\example002_Hellouser.genruntimeconfig.cache
+D:\gb\znakomstvo_s_yazikami_programirovaniya\example001_Helloconsole\example002_Hellouser\obj\Debug\net6.0\ref\example002_Hellouser.dll
